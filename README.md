@@ -1,11 +1,5 @@
 # sithspit
-Character sheet manager for the FFG / Edge Star Wars RPG system
-
-JSON FORMAT FOR SHEETS, SPECIES, CAREERS, SPECIALIZATIONS, GEAR, HOMEBREW, ETC.
-
-	PACK DATA COMPACTLY IN RAM (E.G., USING 18b TO STORE ALL 6 CHARACTERISTIC VALUES WITH 3 BITS EACH, ETC.)
- 
-ANDROID (JAVA / KOTLIN) AND PC (C# .NET) APP (AND WEBSITE?) IN SEPARATE REPOS?
+Character sheet manager for the FFG / Edge Star Wars RPG system.
 
 
 
